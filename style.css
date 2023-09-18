@@ -16,7 +16,10 @@ p {
  
 em strong{ 
     color:#FF0000;
-    
+
+    .iftens{ 
+font-style=italic; 
+    }
 } 
  
 #missao{ 
