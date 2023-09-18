@@ -1,9 +1,13 @@
 body{ 
-    background: #CCCCCC;
+    
 } 
  
 #banner{ 
     wicth: 100%;
+} 
+;
+.principal{ 
+    background: #ccccccc; 
 } 
 
 h1 {
@@ -15,8 +19,13 @@ p {
 } 
  
 em strong{ 
-    color:#FF0000;
+    color:#FF0000;   
+}  
 
+.beneficios{ 
+    background;#FFFFFF; 
+}
+    
     .iftens{ 
 font-style=italic; 
     }
